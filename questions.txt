@@ -1,0 +1,10 @@
+How does authentication work in this codebase?
+What security mechanisms are in place for user input validation?
+Are there any hardcoded secrets in the codebase?
+How are passwords being stored?
+Is there any use of outdated or vulnerable libraries?
+How is data encryption handled?
+Are there any open network ports?
+Is there logging of sensitive information?
+How does the codebase handle SQL injection attacks?
+What measures are taken to prevent cross-site scripting (XSS)?
